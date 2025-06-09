@@ -2,7 +2,8 @@
   
 - 🔭 I’m a Full Stack Web Developer
 - 👯 I’m looking to collaborate on Mobile Apps and Software Development  
-- 😺 I'm passionate about cats  
+- 😺 I'm passionate about cats
+- 🙃 Pronouns: She / Her
 - 📫 How to reach me: yzabeliidalgo@gmail.com  
 
 ---
